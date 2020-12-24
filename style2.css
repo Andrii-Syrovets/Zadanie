@@ -1,0 +1,44 @@
+body{
+    background-color: #161515;
+    height: 1000px;
+    width: 1000px;
+
+}
+.wrapper{
+    background-color: #fff;
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+
+}
+.sidebar{
+    background-color: #161515;
+    width: 1000px;
+    height: 1000px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.photo{
+    width: 400px;
+}
+
+.info{
+    background-color: #161515;
+    color: #fff;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+#footer
+{
+    height: 1000px;
+    width: 1200px;
+	margin: 60px;
+    text-align: center;
+    color: #fff;
+
+}
